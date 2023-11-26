@@ -40,5 +40,5 @@ Packages required for this program is lised below:
 
 ## Video Results:
 - Video Style Transfer: 
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure03.png" width="700" height="700">
+<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure04.png" width="700" height="700">
 
