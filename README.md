@@ -31,7 +31,7 @@ Packages required for this program is lised below:
   - DizzyEffect1: output video (The Screamer Style)
 
 ## Image Results:
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure01.png" width="100" height="100">
+<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure01.png" width="1700" height="800">
 
 
 
