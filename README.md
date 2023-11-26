@@ -5,7 +5,7 @@ Deep Neural Network for Artistic Style Transfer
 In this work, we researched the deep neural network architectures for artistic style transfer. A loss function with multiple regularization terms is proposed to construct the neural network. Pre-trained model with different architectures are used during our network training phase. In order to better understaing and optimize the deep neural network architecture, we experimented and tested the effect caused be picking different GD algorithms, ratio parameters and DNN Architectures to final output images. Overall, the results generated through Adam method with VGG19 architecture and ratio parameter set between 100-1000 looks reasonable and cost affordable computation resources within this project. For video style transfer, we developed a process to style transfer small videos with low resolution. A new regularization term is proposed to keep the continuity of consecutive frames within the video. The output video shows reasonable result.
 
 ## Requirement
-Packages required for this program is lised below: 
+Packages required for this program is listed below: 
 - [OpenCV](https://github.com/opencv/opencv): A package used for image and video processing
 - [Optax](https://github.com/deepmind/optax): A gradient processing and optimization library
 - [PIL](https://github.com/python-pillow/Pillow): A package for image processing
