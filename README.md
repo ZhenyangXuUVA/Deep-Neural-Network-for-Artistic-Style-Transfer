@@ -32,7 +32,7 @@ Packages required for this program is lised below:
 
 ## Image Results:
 
-![Figure01](https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure01.png | width=100)
+![Figure01](https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure01.png)
 
 
 
