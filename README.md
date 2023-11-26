@@ -2,7 +2,9 @@
 Deep Neural Network for Artistic Style Transfer
 
 ## Introduction
-In this work we experiment with multiple different strategies for neural based style transfer on both videos and images. We follow previously published methodology proposed by Gatys et.al while attempting to optimize the output, trying a variety of different networks for feature extraction, different optimizers different loss functions and different regularization terms to produce the ideal output. In the end, we try to extend our work into video style transfer.
+In this work, we researched the deep neural network architectures for artistic style transfer. A loss function with multiple regularization terms is proposed to construct the neural network. Pre-trained model with different architectures are used during our network training phase. 
+In order to better understaing and optimize the deep neural network architecture, we experimented and tested the effect caused be picking different GD algorithms, ratio parameters and DNN Architectures to final output images. Overall, the results generated through Adam method with VGG19 architecture and ratio parameter set between 100-1000 looks reasonable and cost affordable computation resources within this project. 
+For video style transfer, we developed a process to style transfer small videos with low resolution. A new regularization term is proposed to keep the continuity of consecutive frames within the video. The output video shows reasonable result.
 
 ## Requirement
 We write the main code on Google Colab and include the command line to install these necessary packages.
