@@ -25,7 +25,7 @@ Packages required for this program is lised below:
 - Images: test content and style input images
 - Videos: test content videos
 - Output_Videos: styled ouput videos
--- DizzyEffect0
+  - DizzyEffect0
 
 ## Image Results:
 ![Output1](https://github.com/ZeshengLiu22/StyleTransfer/blob/main/Image%20Style%20Transfer%20Results/FinalOutput1.jpg)
