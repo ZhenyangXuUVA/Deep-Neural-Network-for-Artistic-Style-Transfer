@@ -32,13 +32,13 @@ Packages required for this program is listed below:
 
 ## Image Results:
 - Image Style Transfer Examples: 
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure01.png" width="1000" height="516">
+<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure07.png" width="1000" height="516">
 - Prelimiary Results of Mona Lisa:
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure02.png" width="1000" height="494">
+<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure08.png" width="1000" height="494">
 - Experiment and Results:
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure03.png" width="1000" height="675">
+<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure09.png" width="1000" height="675">
 
 ## Video Results:
 - Video Style Transfer: 
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure04.png" width="700" height="700">
+<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure10.png" width="700" height="700">
 
